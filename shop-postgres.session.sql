@@ -1,0 +1,1 @@
+SELECT * FROM product WHERE id > 0 LIMIT 10;
