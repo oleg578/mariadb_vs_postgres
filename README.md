@@ -1,3 +1,9 @@
+#
+
+---
+
+**Note:** This project code was completely created with the help of GitHub Copilot.
+
 # mariadb_vs_postgres
 
 This project demonstrates a comparative setup and usage of MariaDB and PostgreSQL using Docker containers. It includes:
